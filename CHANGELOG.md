@@ -1,3 +1,6 @@
+## 3.0.1
+* Fix Dart 3.14 constant evaluation in `RowToColumn` defaults (`row_to_column.dart`).
+
 ## 3.0.0
 * **Breaking:** Migrated from `package:flutter/material.dart` to standalone [`package:material_ui`](https://pub.dev/packages/material_ui) per [Flutter's Material/Cupertino UI decoupling](https://docs.flutter.dev/release/breaking-changes/material-ui-and-cupertino-ui). Add `material_ui` to your app dependencies when using this package.
 
